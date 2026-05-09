@@ -1,7 +1,6 @@
 /***************************************************************************************************
  * Project Name : Lexical Analyzer
  * Name         : Gagan Bhairamatti
- * Date         : 18 Apr 2026
  *
  * Description  :This program implements a basic Lexical Analyzer for the C programming language.
     It scans a given C source file character by character and identifies different
